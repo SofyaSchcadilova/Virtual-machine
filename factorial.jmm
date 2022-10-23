@@ -1,0 +1,9 @@
+input 28
+set 29 0
+set 30 1
+set 31 1
+cmp 28 29 25
+mul 31 28 31
+sub 28 30 28
+jmp 11
+output 31

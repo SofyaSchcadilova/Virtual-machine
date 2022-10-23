@@ -1,0 +1,12 @@
+input 38
+input 39
+set 40 0
+cmp 38 40 37
+cmp 38 40 37
+cmp 38 39 35
+cmpcom 38 39 29
+sub 39 38 39
+jmp 15
+sub 38 39 38
+jmp 15
+output 38
